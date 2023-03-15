@@ -122,9 +122,11 @@ FILIPPOS@GAY_ANTHROPOS
 			<INPUT TYPE="SUBMIT" VALUE="YPOBOLH">
 		</FORM>
 	</P>
-	<a href="http://www.iekagdim.gr" target="_blank">pata edo na psakseis kai allous pou ton gamane</a> 
+	<a href="http://www.google.com" target="_blank">pata edo na psakseis kai allous pou ton gamane</a> 
 	<BR>
 	<IMG SRC="GAYANTHROPOS.JPG" ALT="AUTISTIKOS FILIPPOS" STYLE="WIDTH:360PX;HEIGHT:280PX;">
 	<IMG SRC="GAYEIKONA.JPG" ALT="AUTISTIKOS FILIPPOS 2" STYLE="WIDTH:156PX;HEIGHT:296PX;">
 </BODY>
 </HTML>	
+![GAYANTHROPOS](https://user-images.githubusercontent.com/127456985/225469848-ee76c2ec-b6b6-40c5-972b-4e8886eb59db.jpg)
+![GAYEIKONA](https://user-images.githubusercontent.com/127456985/225469855-0a46cdd7-60e4-40b5-8459-c12acd001a55.jpg)
